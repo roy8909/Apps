@@ -1,2 +1,3 @@
 servicio,com.my.newproject,https://github.com/roy8909/Apps/releases/download/Servicios/servicio.apk,https://raw.githubusercontent.com/roy8909/Apps/main/version.txt
 whatsap,com.whatsap,https://github.com/roy8909/Apps/releases/download/Servicios/whatsap.apk,https://raw.githubusercontent.com/roy8909/Apps/main/what_version.txt
+prueba,prueba.com,https://github.com/roy8909/Apps/releases/download/Servicios/prueba.apk,https://raw.githubusercontent.com/roy8909/Apps/main/prueba.txt
